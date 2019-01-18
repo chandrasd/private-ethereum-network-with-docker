@@ -1,5 +1,5 @@
 # Private Ethereum Network
-Private ethereum blockchain network with 10 nodes (more can be added) in a docker container. Docker allows you to create, deploy and manage virtualized application containers on a common operating system.
+Private ethereum blockchain network with 10 nodes (more can be added) in a docker container. Docker allows you to create, deploy and manage virtualized application containers on a common operating system. follow the instructions below to get the etherium network working :smiley:
 
 # Getting started
 
